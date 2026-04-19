@@ -1,0 +1,20 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "3sHM4LB5eQbeK8eo5UX6p"
+uri = "file://artifacts/ev-charging/assets/images/icon.png"
+type = "image"
+title = "ev charging app icon"
+
+[[generated]]
+id = "0zCnk6jEC46zATMK80b4m"
+uri = "file://artifacts/ev-charging/assets/images/ev-car.png"
+type = "image"
+title = "electric car illustration"
+
+[[generated]]
+id = "_CU9peYRz2mjCnhUOqKYa"
+uri = "file://artifacts/ev-charging/assets/images/ev-bike.png"
+type = "image"
+title = "electric bike illustration"
